@@ -5,6 +5,7 @@ export const authConfig = {
   pages: {
     signIn: '/login',
   },
+  useSecureCookies: true,
   callbacks: {
     authorized({ auth, request: { nextUrl } }) {
       const isLoggedIn = !!auth?.user;
