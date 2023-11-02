@@ -5,5 +5,7 @@ Build a [Dashboard](https://nextjs-dashboard-getoarmorina3.vercel.app/) using Ne
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 ### Credentials
-* Email: user@nextmail.com`
-* Password: 123456
+* Email
+* `user@nextmail.com`
+* Password
+* `123456`
